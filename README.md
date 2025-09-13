@@ -475,15 +475,6 @@ JavaScript Fundamentals → DOM Manipulation → Asynchronous Programming → Re
 - ✅ Debugging and error handling techniques
 - ✅ Real-world application development
 
-### **Career Preparation:**
-- **Junior Web Developer** readiness
-- **Frontend Developer** foundation skills
-- **Full-Stack Developer** JavaScript competency
-- **Technical Interview** preparation
-
----
-
-## 📝 How to Use This Repository
 
 ### **Recommended Learning Path:**
 
@@ -495,39 +486,7 @@ JavaScript Fundamentals → DOM Manipulation → Asynchronous Programming → Re
 6. **🔄 Review Regularly:** Revisit previous modules to reinforce learning
 7. **🤝 Practice:** Apply concepts in your own mini-projects
 
-### **Study Schedule Suggestions:**
 
-**⚡ Intensive Track (8 weeks):**
-- 15-20 hours per week
-- 1-2 modules per week
-- Daily coding practice
-
-**🎯 Standard Track (12 weeks):**
-- 10-15 hours per week
-- 1 module per week
-- Regular practice sessions
-
-**🐢 Comfortable Track (16+ weeks):**
-- 5-10 hours per week
-- 1 module every 1-2 weeks
-- Flexible, self-paced learning
-
----
-
-## 🔧 Technical Requirements
-
-### **Minimum Requirements:**
-- Modern web browser (Chrome 70+, Firefox 65+, Safari 12+, Edge 79+)
-- Text editor (VS Code, Sublime Text, Atom, or any editor)
-- Internet connection for API-based exercises
-
-### **Recommended Setup:**
-- **VS Code** with JavaScript extensions
-- **Chrome DevTools** for debugging
-- **Git** for version control practice
-- **Node.js** for advanced exercises (optional)
-
----
 
 ## 👨‍🎓 Author
 
@@ -549,29 +508,6 @@ This project is **free for educational use**.
 - ✅ Share with students and learners
 - ✅ Modify examples for educational purposes
 - ✅ Use as reference material
-
-### **Please:**
-- 🤝 Give credit when sharing or adapting content
-- 📢 Share feedback and suggestions for improvement
-- 🌟 Star the repository if you find it helpful
-
----
-
-## 🤝 Contributing
-
-We welcome contributions to improve this learning resource!
-
-**Ways to Contribute:**
-- 🐛 Report bugs or issues
-- 💡 Suggest improvements or new exercises
-- 📝 Improve documentation
-- 🎨 Enhance examples or add new projects
-
-**Getting Started:**
-1. Fork the repository
-2. Create a feature branch
-3. Make your improvements
-4. Submit a pull request
 
 ---
 
