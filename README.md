@@ -12,13 +12,15 @@ Welcome to the **JavaScript Learning Phase** repository! This repository is desi
 - **Functions (Declaration, Expression, Arrow Functions)**
 - **Scope (Global, Local, Block)**
 - **Objects and Arrays**
+- **Debugging**: Using `console.log()`
+- **Error Handling**: `try...catch` blocks
 - **String and Array Methods**
 - **ES6+ Features (let/const, template literals, destructuring, spread/rest operators)**
 
 ### 2. Strings & Arrays
-- **String Manipulation:** Methods such as `trim()`, checking for blank strings, and character case checks.
-- **Array Manipulation:** Methods such as `push()`, `pop()`, `shift()`, `unshift()`, `slice()`, `splice()`, `sort()`, `reverse()`, `indexOf()`, `includes()`, `concat()`.
-- **Practice Problems:** Extracting elements, searching arrays, and working with multi-dimensional arrays.
+- **String Methods**: `.trim()`, `.toLowerCase()`, `.toUpperCase()`, `.indexOf()`, `.slice()`, `.replace()`, `.repeat()`
+- **Array Methods**: `push()`, `pop()`, `shift()`, `unshift()`, `slice()`, `splice()`, `sort()`, `reverse()`, `indexOf()`, `includes()`, `concat()`
+- **Array Exercises**: Accessing elements, extracting subarrays, checking presence, merging, and manipulating arrays
 
 ### 3. Functions, Scope, and Higher-Order Functions
 - **Function Declarations and Expressions**
@@ -45,7 +47,12 @@ Welcome to the **JavaScript Learning Phase** repository! This repository is desi
 - **ES6+ Syntax:** Arrow functions, destructuring, spread and rest operators, template literals
 - **Debugging:** Using `console.log()` effectively
 - **Error Handling:** Using try...catch for robust code
-
+- 
+### 8. ES6+ Features
+- **Template Literals**
+- **Destructuring**: Arrays & objects
+- **Spread & Rest Operators**
+- **Modern Array Methods**: `filter`, `map`
 ---
 
 ## 📂 Repository Structure
