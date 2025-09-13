@@ -9,18 +9,6 @@ This comprehensive learning path takes you from a complete beginner to an advanc
 
 Whether you’re just starting or strengthening your existing skills, this repo provides a complete **roadmap to mastering modern JavaScript**.
 
----
-
-## 📖 Table of Contents
-- [Learning Path Overview](#-learning-path-overview)
-- [Repository Structure](#-repository-structure)
-- [Getting Started](#-getting-started)
-- [Module Details](#-module-details)
-- [Key Features](#-key-features)
-- [Educational Value](#-educational-value)
-- [Contributing](#-contributing)
-- [Author](#-author)
-- [License](#-license)
 
 ---
 
@@ -46,7 +34,7 @@ Whether you’re just starting or strengthening your existing skills, this repo 
 | **05** | [05-Guessing-Game-and-Practice](./05-Guessing-Game-and-Practice) | Object Manipulation | Guessing game, objects, nested objects |
 | **06** | [06-Functions-Scope-HOF](./06-Functions-Scope-HOF) | Functions & Scope | Function types, scope, higher-order functions |
 | **07** | [07-Arrow-Function](./07-Arrow-Function) | Modern Functions | Arrow functions, `this`, callbacks, timers |
-| **08** | [08-Arrays-Filter-Map- Spread-Rest-Destructing](./08-Arrays-Filter-Map- Spread-Rest-Destructing) | ES6+ Features | Filter, map, spread/rest, destructuring |
+| **08** | [08-Arrays-Filter-Map- Spread-Rest-Destructing](./08-Arrays-Filter-Map-Spread-Rest-Destructuring/) | ES6+ Features | Filter, map, spread/rest, destructuring |
 | **09** | [09-DOM+Assignmets](./09-DOM+Assignmets) | DOM Fundamentals | Selection, manipulation, styling |
 | **10** | [10-DOM-Events+Activity](./10-DOM-Events+Activity) | Event Handling | Event listeners, delegation |
 | **11** | [11-callbacks-promises-threads-stack-breakpints](./11-callbacks-promises-threads-stack-breakpints) | Async Basics | Callbacks, promises |
