@@ -1,0 +1,21 @@
+<!-- Qs1. Try out the following events in Event Listener on your own :
+- load
+[Use MDN for help] -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Load Event Example</title>
+</head>
+<body>
+    <p id="output">Waiting for the page to load...</p>
+
+    <script>
+        window.addEventListener('load', () => {
+            document.getElementById('output').innerText = 'Page loaded!';
+        });
+    </script>
+</body>
+</html>

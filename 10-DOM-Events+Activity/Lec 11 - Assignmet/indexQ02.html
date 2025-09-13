@@ -1,0 +1,29 @@
+<!-- Qs2. Create a button on the page using JavaScript. Add an event listener to the button
+that changes the button’s color to green when it is clicked. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change Button Color</title>
+</head>
+<body>
+
+<script>
+    // Create a button element
+    const button = document.createElement('button');
+    button.textContent = 'Click me';
+
+    // Append the button to the body or another container
+    document.body.appendChild(button);
+
+    // Add an event listener to the button
+    button.addEventListener('click', () => {
+        // Change the button's color to green
+        button.style.backgroundColor = 'green';
+    });
+</script>
+
+</body>
+</html>

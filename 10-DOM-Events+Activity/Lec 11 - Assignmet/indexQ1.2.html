@@ -1,0 +1,23 @@
+<!-- Qs1. Try out the following events in Event Listener on your own :
+- keypress
+[Use MDN for help] -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keypress Event Example</title>
+</head>
+<body>
+    <input type="text" id="inputField">
+
+    <script>
+        const inputField = document.getElementById('inputField');
+
+        inputField.addEventListener('keypress', (event) => {
+            console.log('Key pressed:', event.key);
+        });
+    </script>
+</body>
+</html>

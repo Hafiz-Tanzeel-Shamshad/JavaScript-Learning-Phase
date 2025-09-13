@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+textarea{
+    height: 300px;
+    width: 500px;
+    background-color: antiquewhite;
+}
+
+span{
+    height: auto;
+    width: auto;
+    background-color: aqua;
+}

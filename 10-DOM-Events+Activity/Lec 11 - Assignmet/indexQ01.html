@@ -1,0 +1,25 @@
+<!-- Qs1. Try out the following events in Event Listener on your own :
+- mouseout
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mouseout Event Example</title>
+</head>
+<body>
+    <div id="target" style="width: 100px; height: 100px; background-color: lightblue;"></div>
+
+    <script>
+        const target = document.getElementById('target');
+
+        target.addEventListener('mouseout', () => {
+            target.style.backgroundColor = 'lightcoral';
+        });
+    </script>
+</body>
+</html>
+
+
